@@ -1,0 +1,26 @@
+[
+    {
+        "name": "nativescript-material-icons",
+        "directory": "../../node_modules/nativescript-material-icons"
+    },
+    {
+        "name": "nativescript-ng2-fonticon",
+        "directory": "../../node_modules/nativescript-ng2-fonticon"
+    },
+    {
+        "name": "nativescript-svg",
+        "directory": "../../node_modules/nativescript-svg"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "../../node_modules/nativescript-theme-core"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "../../node_modules/tns-core-modules"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "../../node_modules/tns-core-modules-widgets"
+    }
+]

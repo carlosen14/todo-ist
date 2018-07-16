@@ -1,0 +1,25 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd"
+      xmlns:svg="@teammaestro/nativescript-svg" loaded="pageLoaded" navigatingTo="navigatingTo">
+    <ActionBar title="To-Do3.." class="action-bar">
+        <ActionItem tap="agregar"
+                    ios.systemIcon="4" ios.position="right"
+                    android.systemIcon="ic_menu_add"
+                    text="Agregar" android.position="actionBar"></ActionItem>
+    </ActionBar>
+    <ActivityIndicator row="1" busy="true" busyChange="onBusyChanged" width="100" height="100"
+                       class="activity-indicator"></ActivityIndicator>
+
+    <ListView id="listView1" items="{{ myItems }}" style="width:100%; height:100%;">
+        <ListView.itemTemplate>
+            <StackLayout class="list-group-item" rows="*" orientation="horizontal" id="container">
+                <Label id="label1" text="{{ texto }}" textWrap="true" width="60%" class="titulo"></Label>
+
+                <Image id="{{_id}}" tap="editar" src="~/image/edit.png" width="15%" class="btn-img"
+                       stretch="aspectFit"/>
+                <Image id="{{_id}}" tap="eliminar" src="~/image/garbage.png" width="15%" class="btn-img"
+                       stretch="aspectFit"/>
+
+            </StackLayout>
+        </ListView.itemTemplate>
+    </ListView>
+</Page>

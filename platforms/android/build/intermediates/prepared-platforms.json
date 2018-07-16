@@ -1,0 +1,8 @@
+{
+    "nativescript-material-icons": true,
+    "nativescript-ng2-fonticon": true,
+    "nativescript-svg": true,
+    "nativescript-theme-core": true,
+    "tns-core-modules": true,
+    "tns-core-modules-widgets": true
+}

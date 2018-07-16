@@ -1,0 +1,30 @@
+{
+	"time": "Mon Jul 16 2018 09:37:38 GMT-0600 (MDT)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "b231a34bf4dc7a6cc1d52ecc5a46a7fe50fdde1b9f20fb91b6f36d7be4ac48ed",
+	"changesRequireBuildTime": "Sat Jul 14 2018 21:48:00 GMT-0600 (MDT)",
+	"appFilesHashes": {
+		"/Users/carlos/Documents/NativeScript/lista/app/CODE_OF_CONDUCT.md": "3d921a467f0dc791385eb1d5db82d88e11d620e0",
+		"/Users/carlos/Documents/NativeScript/lista/app/LICENSE": "6ddc49e6362739b571c8534657821f6bbc6d09e1",
+		"/Users/carlos/Documents/NativeScript/lista/app/README.md": "c6d550a2f77eb68587dea464b008d9216fa7790d",
+		"/Users/carlos/Documents/NativeScript/lista/app/app.css": "ae640fc3cdd7d71d83cf7907630669d55234d141",
+		"/Users/carlos/Documents/NativeScript/lista/app/app.js": "f04f22802a05c135cb3520fd05d94e0c843489bc",
+		"/Users/carlos/Documents/NativeScript/lista/app/create/create-page.js": "26f1f586ff30d6dc2e27c7bb4259f081ac21e6bb",
+		"/Users/carlos/Documents/NativeScript/lista/app/create/create-page.xml": "ba2a8a36a4ead4d01d3cde3df009c32ce0c36eaa",
+		"/Users/carlos/Documents/NativeScript/lista/app/create/create-view-model.js": "5aa2bb6f5c6db9ecd233983a84402ba442132b42",
+		"/Users/carlos/Documents/NativeScript/lista/app/image/edit.png": "64485f4310234ed0ac0debf30ba6473e21bff7ee",
+		"/Users/carlos/Documents/NativeScript/lista/app/image/edit.svg": "728757ee012ed7c0ace5f372c370ef5bf2ddaaaf",
+		"/Users/carlos/Documents/NativeScript/lista/app/image/garbage.png": "feb29de56c740818f4fc90896803edecf500ebd1",
+		"/Users/carlos/Documents/NativeScript/lista/app/image/trash.svg": "c70bc101d0ceca0a9e3d2cb1a162b5f2a5a17cfc",
+		"/Users/carlos/Documents/NativeScript/lista/app/main/main-page.js": "08af63d7ddb49265561cf7dc18e7801f4a7292f1",
+		"/Users/carlos/Documents/NativeScript/lista/app/main/main-page.xml": "4387ce068d131034565c0d053769f954d093ab0b",
+		"/Users/carlos/Documents/NativeScript/lista/app/main/main-view-model.js": "3c2d0cdd5527134d2288d15dd78aecbe9eeb8a29",
+		"/Users/carlos/Documents/NativeScript/lista/app/material-design-icons.css": "a0e3817ea9ca6c8faf0fe231abcd1809c4596060",
+		"/Users/carlos/Documents/NativeScript/lista/app/package.json": "f73bc9d1a7b46c27434d7596da527c5f0df8af3b",
+		"/Users/carlos/Documents/NativeScript/lista/app/fonts/MaterialIcons-Regular.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+		"/Users/carlos/Documents/NativeScript/lista/app/fonts/icomoon.ttf": "8f243a3e819bb5c4a55e40270e5e9f1d2b2bcff0"
+	}
+}

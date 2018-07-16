@@ -1,0 +1,26 @@
+@import "~nativescript-theme-core/css/core.light.css";
+
+/* Your CSS goes here */
+
+.my-button {
+    background-color: royalblue;
+    border-radius: 5;
+    color: white;
+    font-family: FontAwesome;
+    font-size: 24;
+    vertical-align: middle;
+    width: 20%;
+}
+
+.btn-img{
+    margin: 10;
+    font-size: 22;
+    height: 150px;
+
+}
+
+.titulo{
+    color: black;
+    margin: 10;
+    font-size: 25;
+}
